@@ -1,0 +1,23 @@
+Searching 556 files for "generalSetting() = generalSetting()"
+
+C:\laragon\www\infixedu\resources\views\backEnd\partials\header.blade.php:
+    2  <!DOCTYPE html>
+    3  @php 
+    4  $generalSetting = generalSetting();
+    5  @endphp
+    6  
+
+C:\laragon\www\infixedu\resources\views\backEnd\partials\menu.blade.php:
+    1  
+    2  @php 
+    3: $generalSetting = generalSetting();
+    4  $languages = systemLanguage();
+    5  
+
+C:\laragon\www\infixedu\resources\views\backEnd\partials\sidebar.blade.php:
+    1  @php 
+    2: $generalSetting = generalSetting();
+    3  @endphp
+    4  <nav id="sidebar">
+
+3 matches across 3 files

@@ -1,0 +1,18 @@
+{
+    "InfixBiometrics": false,
+    "FeesCollection": false,
+    "ResultReports": false,
+    "TemplateSettings": true,
+    "RolePermission": true,
+    "RazorPay": false,
+    "Saas": false,
+    "Zoom": false,
+    "ParentRegistration": false,
+    "SaasSubscription": false,
+    "Inventory": false,
+    "SaasRolePermission": false,
+    "Controller": true,
+    "StaffDepartmentController": true,
+    "StaffDesignationController": true,
+    "StaffController": true
+}
